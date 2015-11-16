@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BigNerd</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_1">Constantinople is the capital of Turkey</string>
+    <string name="question_2">Pacific ocean is larger than Atlantic ocean</string>
+    <string name="question_3">Android is an open source OS</string>
+    <string name="question_4">My middle name is Rohit</string>
+    <string name="question_5">My favourite game is Call of duty</string>
+    <string name="question_6">Mitochondria is the powerhouse of the cell</string>
+    <string name="question_7">Smoking causes cancer</string>
+    <string name="question_8">Chrome browser eats very little RAM</string>
+    <string name="question_9">Windows 98 is latest version</string>
+    <string name="question_10">My life sucks</string>
+    <string name="question_11">Bulbasaur is a starter pokemon</string>
+    <string name="question_12">Gohan is son of Goku</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_snack">Answer is correct</string>
+    <string name="wrong_snack">Answer is wrong</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="warning">Are you sure to see the answer?</string>
+    <string name="show_answer_button">Show answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong</string>
+</resources>
