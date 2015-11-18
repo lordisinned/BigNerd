@@ -60,7 +60,8 @@
         </LinearLayout>
         <LinearLayout
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
 
             <ImageButton
                 android:layout_width="wrap_content"
@@ -74,6 +75,11 @@
                 android:src="@drawable/ic_action_arrow_right"/>
 
         </LinearLayout>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cheat_button"
+            android:text="@string/cheat_button"/>
 
     </LinearLayout>
 
